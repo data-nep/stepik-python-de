@@ -1,1 +1,1 @@
-# stepik-python-de
+### Итоговое задание модуля Python курса https://stepik.org/course/137235
